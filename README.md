@@ -2,7 +2,7 @@
 - 👀 I’m interested in getting back into programming. Haven't coded in about 10 years. 
 - 🌱 I’m currently learning responsive web development. 
 - 💞️ I’m looking to collaborate on web projects. 
-- 📫 How to reach me 
+- 📫 How to reach me chris@chrisstallings.com
 - ⚡ Fun fact: I enjoy getting outside and exploring nature. I have also been a photographer for the past 15 years. 
 
 <!---
