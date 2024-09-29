@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chris, an <a href="https://linkedin.com/in/chriscms">IT Professional</a>.</h1>
+<h1>Hi, I'm Chris, an <a href="https://linkedin.com/in/chriscms" target="_blank">IT Professional</a> and <a href="https://www.chrisstallings.com" target="_blank">photographer</a>.</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
