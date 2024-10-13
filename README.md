@@ -13,9 +13,11 @@
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Chris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Chris | Website" width="22px" src="https://i.imgur.com/Xf44Z5Q.png" />][Website]
 
 
 [linkedin]: https://linkedin.com/in/chriscms
+[Website]: https://www.chrisstallings.com
 
 <!---
 chris-stallings/chris-stallings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
