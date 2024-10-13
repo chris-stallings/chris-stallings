@@ -13,7 +13,7 @@
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Chris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Chris | Website" width="22px" src="https://i.imgur.com/Xf44Z5Q.png" />][Website]
+[<img align="left" alt="Chris | Website" width="22px" src="https://github.com/user-attachments/assets/7f2a8aa7-ca68-4478-889f-99ae527509ef" />][Website]
 
 
 [linkedin]: https://linkedin.com/in/chriscms
