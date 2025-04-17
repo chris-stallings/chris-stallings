@@ -14,12 +14,11 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Chris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Chris | Website" width="22px" src="https://github.com/user-attachments/assets/7f2a8aa7-ca68-4478-889f-99ae527509ef" />][Website]
+Connect with me on <a href="https://www.linkedin.com/in/chriscms">LinkedIn.</a>
 
+Check out my personal website. <a href="https://www.chrisstallings.com">www.chrisstallings.com</a>
 
-[linkedin]: https://linkedin.com/in/chriscms
-[Website]: https://www.chrisstallings.com
+Check out my current certifications on <a href="https://www.credly.com/users/c-stallings">Credly</a>
 
 <!---
 chris-stallings/chris-stallings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
