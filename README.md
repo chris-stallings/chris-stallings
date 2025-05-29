@@ -12,7 +12,10 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/chris-stallings/azure-network-protocols)
   -->
 <h2>Software Development Projects</h2>
-    - <a href="https://github.com/chris-stallings/ToDo-List">ToDo List</a>
+
+- <b>CourseCareers Projects</b>
+
+  - [ToDo list](https://github.com/chris-stallings/ToDo-List)
 
 <h2>🤳Connect with me:</h2>
 
