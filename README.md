@@ -13,9 +13,10 @@
   -->
 <h2>Software Development Projects</h2>
 
-- <b>CourseCareers Projects</b>
+- <b>Web Applications using Javascript or Typescript</b>
 
   - [ToDo list](https://github.com/chris-stallings/ToDo-List)
+  - [Personal Portfolio](https://github.com/chris-stallings/PersonalPortfolio)
 
 <h2>🤳Connect with me:</h2>
 
